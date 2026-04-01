@@ -5,3 +5,10 @@ body {
 h1 {
     color:chartreuse
 }
+
+button#btn, button {
+    border-radius: 10px;
+    background-color: mediumpurple;
+}
+
+img#
